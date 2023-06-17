@@ -1,0 +1,136 @@
+.profile-picture {
+    height: 300px;
+    border-radius: 150px;
+    margin-top: 5px;
+    margin-left: 950px;
+    display: flex;
+    align-items: center;
+} 
+
+section {
+    background-color: rgb(53, 97, 80);
+    
+}
+
+.section-sub{ 
+    display: felx;
+    justify-content: space-around;
+    padding: 60px;
+}
+
+.first-section{
+    height: 320px;
+    background-color: rgb(38, 68, 56);
+    border: solid gray 3px;
+}
+
+.project-box{
+    width: 350px;
+    height: 600px;
+    border:2px solid white;
+}
+
+.project-holder{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.main {
+    background-color: rgb(19, 8, 26);
+    height: 35vh;
+    font-size: 40px;
+    color: rgb(202, 202, 202);
+    text-align: left;
+}
+
+.main-location {
+    display: flex;
+    height: 100%;
+}
+
+.main-text {
+    margin-right: 80px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 70px;
+    margin: 0;
+}
+
+h2{
+    font-size: 50px;
+}
+
+p {
+    margin: 5;
+    margin-right: 35%;
+    line-height: 25px;
+}
+
+.project-text{
+    font: size 15px;
+    font-weight:300;
+    margin-left: 10px;
+    text-align: centerS;
+}
+
+
+nav {
+    height: 40px;
+    background-color: black;  
+    text-align: right;
+    text-decoration: underline;
+}
+
+.nav-text:hover {
+    background-color: yellow;
+    text-align: center;
+}
+
+.nav-text:active {
+    background-color:rgb(19, 8, 26) ;
+}
+
+ul {
+    display: flex;    
+    list-style-type: none;
+    width: 500px;
+    font-size: 30px;
+    justify-content: space-around; 
+}
+
+li {
+    width: 200px;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: rgb(6, 18, 29);
+    color: white;
+    padding: 60px;
+    text-align: left;
+}
+
+.project-image{
+    margin-top: 15px;
+    width: 250px;
+    border-radius: 125px;
+    margin-left: 40px;
+
+}
+
+.project-title{
+    text-align: center;
+}
+
+.project-link{
+    text-decoration: none;
+    color: white;
+}
+
