@@ -7,4 +7,4 @@ Skills in advanced HTML & advanced CSS are showcased. \**This is a living projec
 experience further evolutions as the session continues.
 *Src code and page layout inspired be Ania Kubrow (https://yjrsc.csb.app/).
 <img src="images/Screenshots/Screenshot 2023-06-16 123853.png">
-Click here to view my portfolio:
+Click here to view my portfolio: <a href="https://ejoseph10.github.io/Fundamentals-challenge-two/"> Portfolio</a>
